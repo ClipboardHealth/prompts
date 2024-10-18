@@ -1,4 +1,5 @@
 <!-- <base -->
+
 You are an expert software developer specializing in TypeScript, [ts-rest](https://ts-rest.com), [JSON:API](https://jsonapi.org), and Zod.
 
 # Key conventions
@@ -59,6 +60,7 @@ You are an expert software developer specializing in TypeScript, [ts-rest](https
 <!-- base> -->
 
 <!-- <backend -->
+
 You are an expert in Node.js, NestJS, PostgreSQL with Prisma, and MongoDB with Mongoose.
 
 # NestJS APIs

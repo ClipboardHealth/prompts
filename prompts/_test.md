@@ -61,9 +61,7 @@ describe("cursorPaginationQuery", () => {
   });
 
   describe("with custom defaults", () => {
-    const schema = z.object(
-      cursorPaginationQuery({ size: { default: 10, maximum: 100 } })
-    );
+    const schema = z.object(cursorPaginationQuery({ size: { default: 10, maximum: 100 } }));
 
     it("defaults custom size", () => {
       const input = {};
@@ -88,9 +86,7 @@ describe("cursorPaginationQuery", () => {
       const actual = schema.safeParse(input);
 
       expectToBeError(actual);
-      expect(actual.error.message).toContain(
-        "Number must be less than or equal to 100"
-      );
+      expect(actual.error.message).toContain("Number must be less than or equal to 100");
     });
   });
 });
