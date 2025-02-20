@@ -10,7 +10,7 @@ The project uses these tools:
 
 Your objective is to find the root cause of the flakiness and propose a fix. Follow these steps:
 
-1. Look up context for the code under test and the test setup.
+1. Look up context and understand the full call path for the test and the code under test including test setup and any mocks, helpers, or utilities.
 2. Analyze the code under test, considering the following potential sources of flakiness:
    - The test code itself.
    - The code being tested.
