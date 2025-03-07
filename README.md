@@ -1,9 +1,10 @@
 <h1 align="center">prompts</h1>
 <p align="center">
-  <a href="https://www.clipboardhealth.com/"><img alt="Clipboard Health logo." src="./static/logo.png"></a>
+  <a href="https://www.clipboardhealth.com/"><img alt="Clipboard logo." height="250px" src="./static/logo.png"></a>
 </p>
-
-Clipboard Health's collection of prompts to assist LLMs in generating code adhering to our best practices.
+<p align="center">
+  Clipboard's collection of prompts to assist LLMs in generating code adhering to our best practices.
+</p>
 
 ## Table of contents <!-- omit from toc -->
 
