@@ -38,7 +38,6 @@ When prompting LLMs, `@` reference the prompts by name. For example, `@_test.md 
 ## Attribution
 
 - Our rules are a combination of those in [Cursor Directory](https://cursor.directory/).
-- `_chainOfThought.md` is from [r/cursor](https://www.reddit.com/r/cursor/comments/1fqcdkt/i_initiated_instructions_and_used_them_to_edit/).
 - `_commitMessage.md` (which heavily inspired `_prCreate.md`) is from [dgokcin/dotfiles](https://github.com/dgokcin/dotfiles/blob/main/ai-stuff/cursor/prompts/create-commit/system.md).
 - `_proofread.md` is from [r/ChatGPTPromptGenius](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1bq212c/3_chatgpt_megaprompts_i_use_daily_to_save_tons_of/).
 - `_reasoning.md` is from [philschmid/prompt.txt](https://gist.github.com/philschmid/34747bf5bc8280f3a5f10f5fd8d1cd4b).
