@@ -6,6 +6,9 @@
   Clipboard's collection of prompts to assist LLMs in generating code adhering to our best practices.
 </p>
 
+> [!WARNING]
+> **DEPRECATED**: This repository is deprecated. Please use [core-utils/packages/ai-rules](https://github.com/ClipboardHealth/core-utils/tree/main/packages/ai-rules) instead.
+
 ## Table of contents <!-- omit from toc -->
 
 - [Usage](#usage)
